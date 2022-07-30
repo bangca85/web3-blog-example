@@ -25,5 +25,6 @@ This is project clone from https://github.com/dabit3/full-stack-web3. I have cus
     ```
 7. Start the app
     ```bash
+       npm run build
        npm start
     ```
